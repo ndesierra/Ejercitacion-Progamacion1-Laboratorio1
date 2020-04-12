@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1586727166 source:c:\users\nico\desktop\clase 4\ejercicio002clase4\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1586728295 source:c:\users\nico\desktop\clase 4\ejercicio002clase4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1586727166 c:\users\nico\desktop\clase 4\ejercicio002clase4\utn.h
+
+1586727166 source:c:\users\nico\desktop\programacion i - laboratorio i\ejercitacion\clase 4\ejercicio002clase4\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
